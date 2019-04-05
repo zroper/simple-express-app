@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "This is a simple express application to test VPS deployment.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MZKZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.9.0"
+  }
+}
